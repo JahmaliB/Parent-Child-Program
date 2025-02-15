@@ -1,6 +1,6 @@
 # Parent-Child-Program
 
-![Project Screenshot]()
+![Project Screenshot](Preview_SS)
 
 ## Description  
 This is a mini project using React that showcases how parent and child works with each other.
