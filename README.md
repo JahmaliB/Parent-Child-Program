@@ -1,26 +1,23 @@
 # Parent-Child-Program
 
-![Project Screenshot](Preview_SS)
+![Project Screenshot](Preview_SS.png)
 
 ## Description  
-This is a mini project using React that showcases how parent and child works with each other.
+This mini project using React showcases how parent and child work with each other. Clicking the buttons changed the photo to which the button corresponds.
 
 ### Running the app
 
-1. Ensure you have `npm` installed.
+1. Clone the repository of the project in the terminal using:
+git clone https://github.com/JahmaliB/Parent-Child-Program.git
 
-Follow the instructions for your platform [here](https://github.com/npm/npm).
+2. Change your current directory to the project's directory using:
+cd Parent-Child-Program
 
-2. Install `http-server`
-
-````
+3. Install the dependencies needed to run the program using:
 npm install
-````
 
-3. Boot the HTTP server
+4. Start the server using:
+npm start
 
-````
-npm run server
-````
-
-The server is now running at [localhost:3000](localhost:3000)
+5. (Optional) Your program should open automatically but if it does not copy and paste this into your browser:
+'http://localhost:3000'
